@@ -1,0 +1,24 @@
+.table-striped {
+  tbody {
+    tr:nth-of-type(even) {
+      border: solid 1px rgba(0, 0, 0, 0.2);
+      background-color: rgba(39, 125, 163, 0.03);
+    }
+  }
+}
+
+.ras-table {
+  thead {
+    tr {
+      height: 69px;
+      th {
+        background-color: rgba(39, 125, 163, 0.1);
+      }
+    }
+  }
+  tbody {
+    td {
+      overflow-wrap: anywhere !important;
+    }
+  }
+}

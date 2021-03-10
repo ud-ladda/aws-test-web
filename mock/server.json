@@ -1,0 +1,145 @@
+{
+  "risk": [
+    {
+      "id": 1,
+      "company": "CCS",
+      "group": "North",
+      "category": "SHE",
+      "eventDescription": "eventDescriptioneventDescriptioneventDescription",
+      "mititionStatus": "Complete",
+      "gross": {
+        "likelihood": 4,
+        "impact": 2
+      },
+      "net": {
+        "likelihood": 5,
+        "impact": 5
+      },
+      "workflowStatus": {
+        "status": "In Progress",
+        "role": "Internal Owner"
+      },
+      "dateModefied": "05/02/2021",
+      "type": "item",
+      "owner": "assessor ccs",
+      "rootCause": "rootCauserootCauserootCauserootCauserootCause",
+      "mitigationPlans": [
+        {
+          "title": "11111",
+          "completionDate": null,
+          "attachment": null,
+          "categoryExpertUserId": 7,
+          "status": null,
+          "is_reviewed": true,
+          "is_approved": true
+        },
+        {
+          "title": "22222",
+          "completionDate": null,
+          "attachment": null,
+          "categoryExpertUserId": 8,
+          "status": null,
+          "is_reviewed": false,
+          "is_approved": false
+        }
+      ],
+      "is_approved": true
+    },
+    {
+      "id": 2,
+      "company": "CCS2",
+      "group": "North",
+      "category": "SHE",
+      "eventDescription": "eventDescriptioneventDescriptioneventDescription",
+      "mititionStatus": "Complete",
+      "gross": {
+        "likelihood": 4,
+        "impact": 2
+      },
+      "net": {
+        "likelihood": 5,
+        "impact": 5
+      },
+      "workflowStatus": {
+        "status": "In Progress",
+        "role": "Internal Owner"
+      },
+      "dateModefied": "05/02/2021",
+      "type": "item",
+      "owner": "assessor ccs",
+      "rootCause": "rootCauserootCauserootCauserootCauserootCause",
+      "mitigationPlans": [
+        {
+          "title": "11111",
+          "completionDate": null,
+          "attachment": null,
+          "categoryExpertUserId": 7,
+          "status": null,
+          "is_reviewed": true,
+          "is_approved": true
+        },
+        {
+          "title": "22222",
+          "completionDate": null,
+          "attachment": null,
+          "categoryExpertUserId": 8,
+          "status": null,
+          "is_reviewed": false,
+          "is_approved": false
+        }
+      ],
+      "is_approved": true
+    },
+    {
+      "id": 3,
+      "company": "CCS3",
+      "group": "North",
+      "category": "SHE",
+      "eventDescription": "eventDescriptioneventDescriptioneventDescription",
+      "mititionStatus": "Complete",
+      "gross": {
+        "likelihood": 4,
+        "impact": 2
+      },
+      "net": {
+        "likelihood": 5,
+        "impact": 5
+      },
+      "workflowStatus": {
+        "status": "In Progress",
+        "role": "Internal Owner"
+      },
+      "dateModefied": "05/02/2021",
+      "type": "item",
+      "owner": "assessor ccs",
+      "rootCause": "rootCauserootCauserootCauserootCauserootCause",
+      "mitigationPlans": [
+        {
+          "title": "11111",
+          "completionDate": null,
+          "attachment": null,
+          "categoryExpertUserId": 7,
+          "status": null,
+          "is_reviewed": true,
+          "is_approved": true
+        },
+        {
+          "title": "22222",
+          "completionDate": null,
+          "attachment": null,
+          "categoryExpertUserId": 8,
+          "status": null,
+          "is_reviewed": false,
+          "is_approved": false
+        }
+      ],
+      "is_approved": true
+    }
+  ],
+  "user-role-permissions": [
+    {
+      "id": 1,
+      "permission": ""
+    }
+  ]
+}
