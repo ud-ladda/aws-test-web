@@ -1,7 +1,7 @@
 {
     "family": "jeab-front-dev",
-    "executionRoleArn": "arn:aws:iam::262856515216:role/ecsTaskExecutionRole",
-    "taskRoleArn": "arn:aws:iam::262856515216:role/ecsTaskExecutionRole",
+    "executionRoleArn": "arn:aws:iam::262856515216:role/escTaskRole",
+    "taskRoleArn": "arn:aws:iam::262856515216:role/escTaskRole",
     "networkMode": "awsvpc", 
     "containerDefinitions": [
         {
