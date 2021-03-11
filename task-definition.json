@@ -1,12 +1,12 @@
 {
-    "family": "ras-frontend-dev",
-    "executionRoleArn": "arn:aws:iam::215023703764:role/ecsTaskExecutionRole",
-    "taskRoleArn": "arn:aws:iam::215023703764:role/ecsTaskExecutionRole",
+    "family": "jeab-front-dev",
+    "executionRoleArn": "arn:aws:iam::262856515216:role/ecsTaskExecutionRole",
+    "taskRoleArn": "arn:aws:iam::262856515216:role/ecsTaskExecutionRole",
     "networkMode": "awsvpc", 
     "containerDefinitions": [
         {
-            "name": "ras-frontend-dev",
-            "image": "215023703764.dkr.ecr.ap-southeast-1.amazonaws.com/ras-frontend-dev:latest",
+            "name": "jeab-front-dev",
+            "image": "262856515216.dkr.ecr.ap-southeast-1.amazonaws.com/jeab-front:latest",
             "portMappings": [
                 {
                     "containerPort": 80,
@@ -17,9 +17,9 @@
             "logConfiguration": {
                 "logDriver": "awslogs",
                 "options": {
-                    "awslogs-group": "ras-frontend-dev",
+                    "awslogs-group": "jeab-front-dev",
                     "awslogs-region": "ap-southeast-1",
-                    "awslogs-stream-prefix": "ras-frontend-dev"
+                    "awslogs-stream-prefix": "jeab-front-dev"
                 }
             },
             "essential": true
